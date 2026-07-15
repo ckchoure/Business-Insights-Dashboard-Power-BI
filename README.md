@@ -161,3 +161,9 @@ LinkedIn:
 
 Email:
 (chainkumarchoure49@gmail.com)
+
+🔗 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiODdjYmQ4NWItOWYzNi00ZjFiLTkwZWYtNzgyZTk1MjIyNDkwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+
+💻 Linkedin : https://www.linkedin.com/posts/chainkumar-choure_powerbi-dataanalytics-businessintelligence-ugcPost-7483273056224808960-vRsp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_uBZIBrXvEo1c3EIgucQ-tpF9LQu9CRNo
