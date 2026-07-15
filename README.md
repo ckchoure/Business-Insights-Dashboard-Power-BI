@@ -108,22 +108,16 @@ Data was extracted from **SQL Server**, transformed using **Power Query**, and a
 # 📷 Dashboard Preview
 
 ## Home
-(Add Screenshot)
 
 ## Finance View
-(Add Screenshot)
 
 ## Sales View
-(Add Screenshot)
 
 ## Marketing View
-(Add Screenshot)
 
 ## Supply Chain View
-(Add Screenshot)
 
 ## Executive View
-(Add Screenshot)
 
 ---
 
@@ -163,10 +157,7 @@ Business dataset containing Sales, Customers, Products, Markets, Finance, Foreca
 **Chain Kumar Choure**
 
 LinkedIn:
-(Add your LinkedIn)
-
-GitHub:
-(Add your GitHub)
+(https://www.linkedin.com/in/chainkumar-choure/)
 
 Email:
-(Add your Email)
+(chainkumarchoure49@gmail.com)
